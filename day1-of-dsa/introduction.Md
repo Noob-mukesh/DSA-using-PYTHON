@@ -6,7 +6,7 @@
 4. a grade company placements.
 5. campus placement.
 
-## What is imprtance of stucting data ?
+## What is importance of structer`ing data ?
 
 - It helps us to organize our code better and make it more readable.
 - It allows us to access the elements easily.
@@ -18,7 +18,7 @@
 
 data structure is the way of storing & organizing data so that it can be used efficently.
 
-## classification of Ds.
+## Classification of DS.
 
 1. linear data structure.
 
