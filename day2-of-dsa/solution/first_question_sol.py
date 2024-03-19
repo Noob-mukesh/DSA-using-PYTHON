@@ -9,4 +9,4 @@ def sortarray(array):
 
 array=array.array("i",[4,2,1,3])
 
-print(sortarray(array))
+# print(sortarray(array))

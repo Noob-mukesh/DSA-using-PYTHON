@@ -6,5 +6,5 @@ def calculate_avg(arg:list)->float:
     return sum(arg)/(len(arg))
 
 
-print(calculate_avg([1,2,3]))
+# print(calculate_avg([1,2,3]))
 # end def
