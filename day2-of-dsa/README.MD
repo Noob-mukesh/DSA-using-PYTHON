@@ -48,3 +48,7 @@ _Below is a list of all data types in NumPy and the characters used to represent
 - S - string
 - U - unicode string
 - V - fixed chunk of memory for other type ( void )
+
+## ASSIGNMENT
+
+<img src="homework.jpg">
